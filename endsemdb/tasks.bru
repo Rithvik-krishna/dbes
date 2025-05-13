@@ -1,0 +1,22 @@
+meta {
+  name: tasks
+  type: http
+  seq: 3
+}
+
+post {
+  url: http://localhost:5000/task
+  body: json
+  auth: inherit
+}
+
+body:json {
+  {
+    "title" : "database end sem",
+    "description" : "lorem ipsium backend fronted",
+    "dueDate" : 24,
+    "status" : "pending",
+    "userId" : "21"
+    
+  }
+}
